@@ -1,2 +1,3 @@
-requests
-beautifulsoup4
+selenium #This is the main library used for browser automation in the script.
+webdriver-manager #This is used to automatically manage and install the appropriate WebDriver (ChromeDriver in this case).
+beautifulsoup4 #Although not directly used in the current script, it's imported (as BeautifulSoup), so it should be included in case it's needed for future modifications or in other parts of the project.
