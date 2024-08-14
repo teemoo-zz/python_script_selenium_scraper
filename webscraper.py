@@ -45,12 +45,12 @@ try:
 
     # Step 2: Go to the first URL
     wait_and_print("Step 2: Navigating to the first URL...")
-    driver.get("https://opendata.hira.or.kr/home.do")
+    driver.get("https://the_the_domain_you_want_to_visit.com")
     wait_and_print("Arrived at the first URL.")
 
     # Step 3: Go to the second URL
     wait_and_print("Step 3: Navigating to the second URL...")
-    driver.get("https://opendata.hira.or.kr/op/opc/olapMaterialTab3.do")
+    driver.get("https://the_the_domain_you_want_to_visit.com")
     wait_and_print("Arrived at the second URL.")
 
     # Step 4: Search for the element and click it
